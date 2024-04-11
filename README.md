@@ -1,3 +1,3 @@
-# merge-queue-test 2
+# merge-queue-test
 
 Edit 7
